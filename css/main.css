@@ -1,0 +1,105 @@
+body{
+	font-family:Roboto;
+}
+#menu{
+	padding: 0;
+	margin-left: 60%;
+	margin-top: 2%;
+	margin-bottom: 1%;;;
+}
+#menu li{
+	display: inline;
+
+}
+#menu li a{
+	font-size: 14px;
+	text-decoration: none;
+	float: left;
+	padding: 1px;
+	color: #fae100;
+	margin:4px;
+}
+header{
+	background-color: #f5c116;
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:top left;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+ 	-o-background-size: cover;
+	height:500px;
+
+}
+a{
+	 color: white;
+    text-decoration: none;
+}
+.cuadro{
+	background-color: #f8a13a;
+	width: 12%;
+	padding: 15px;
+    border: #f8a13a;
+}
+.texto{
+	color: white;
+	margin-left: 58%;
+	margin-top:20%;
+}
+.pequeno{
+	color: white;
+	margin-left: 60%;
+}
+section{
+	background-color: #eae1e1;
+	background-repeat: repeat;
+}
+.caja1{
+	background-color:white;
+	 width: 300px;
+	 height: 350px;
+	 margin-left: 90px;
+	 margin-top: 40px;
+	 margin-right: 10px;
+ 	 margin-bottom: 10px;
+ 	 padding:10px;
+}
+.caja2{
+	background-color:#c3c3c3;
+	width: 200px;
+	height: 180px;
+	margin: 20px 10px 0px 40px;
+}
+}
+.left{
+	left: 100px;
+}
+h1{
+	color: gray;
+	text-align: justify;
+	padding: 25%;
+}
+h3{
+	color: gray;
+	padding: 10px;
+}
+.borde{
+	color: gray;
+	font-size: 10px;
+	margin-bottom: 20%;
+}
+.boton{
+	width:80px;
+	height: 30px;
+	background-color: orange;
+	margin-left:90px;
+	margin-bottom:10px;
+	font-size:17px;
+	padding-left: 15px;
+	padding-top:10px;
+}
+.abajo{
+	background-color:#212121;
+	height: 70px;
+	padding: 20px;
+	color: white;
+}
